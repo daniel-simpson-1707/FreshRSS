@@ -1,0 +1,8 @@
+{
+    "name": "StripTitleHtml",
+    "author": "Daniel Simpson",
+    "description": "Strips HTML from article titles in FreshRSS",
+    "version": "0.1",
+    "entrypoint": "StripTitleHtml",
+    "type": "user"
+}
